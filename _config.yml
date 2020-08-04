@@ -12,7 +12,7 @@ timezone: UTC
 # custom Site settings
 # more detail check out docs
 SEOTitle: BlockWritter a hub of innovative idea, observation & co-operation by QuantaEx 
-header-img: "images/quantaex-exchange.png"
+header-img: "https://raw.githubusercontent.com/QuantaEx/blockwriter/master/source/_posts/assets/images/block-writer-banner-gh.png"
 email: blockwriter@quantaex.net
 description: "BlockWritter a hub of innovative idea, observation & co-operation by QuantaEx"
 keyword: blockchain, idea, inovation, bitcoin, ethereum
