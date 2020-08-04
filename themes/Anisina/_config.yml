@@ -146,7 +146,7 @@ deploy:
 
 
 # img CDN path
-cdn-url:  https://github.com/QuantaEx/blockwriter/tree/master/assets
+cdn-url:  https://github.com/QuantaEx/blockwriter/tree/master/images
 
 # Qiniu imageView2 API
 # More info http://developer.qiniu.com/code/v6/api/kodo-api/image/imageview2.html
