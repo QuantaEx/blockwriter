@@ -11,7 +11,7 @@ timezone: UTC
 
 # custom Site settings
 # more detail check out docs
-SEOTitle: BlockWritter a hub of innovative idea, observation & co-operation by QuantaEx 
+SEOTitle: BlockWritter a hub of innovative idea, observation & co-operation by QuantaEx
 header-img: "https://raw.githubusercontent.com/QuantaEx/blockwriter/master/source/_posts/assets/images/block-writer-banner-gh.png"
 email: blockwriter@quantaex.net
 description: "BlockWritter a hub of innovative idea, observation & co-operation by QuantaEx"
@@ -32,15 +32,16 @@ permalink_defaults:
 
 github_username: QuantaEx
 twitter_username: QuantaEx
-facebook_username: QuantaEx 
+facebook_username: QuantaEx
 linkedin_username: quantaex 
+telegram_username: quantaex
 
 # Build settings
 anchorjs: true                       # if you want to customize anchor. check out line:181 of `post.html`
 
 
-# Disqus settings 
-disqus_username: 
+# Disqus settings
+disqus_username:
 
 # Duoshuo settings
 duoshuo_username:  # 你的多说帐号
@@ -49,13 +50,13 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Use livere
 use_livere:
-plugins:  hexo-generator-feed	
+plugins:  hexo-generator-feed
 links: #添加链接信息
 Feed: atom.xml
 # Valine comment system https://valine.js.org
-valine: 
+valine:
   enable: true
-  appid:  
+  appid:
   appkey:  #Leancloud应用的appKey
   verify: false #验证码
   notify: true
@@ -142,18 +143,18 @@ theme: Anisina
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: 
-  repo: 
-  branch: 
+  type:
+  repo:
+  branch:
 
 
 # img CDN path
 cdn-url:  https://github.com/QuantaEx/blockwriter/tree/master/images
-cdn: 'header-off' 
+cdn: 'header-off'
 
 # Qiniu imageView2 API
 # More info http://developer.qiniu.com/code/v6/api/kodo-api/image/imageview2.html
-clip-content: 
+clip-content:
 clip-avatar: "?imageView2/2/w/300/h/300/interlace/1/q/90"
 clip-home-post-bg: "?imageView2/1/w/800/h/300/interlace/1/q/70"
 
@@ -162,10 +163,10 @@ post-default-img: #博文默认的图片
 post-default-img-mobile: #移动端显示的图片
 
 # search api , set your custom key
-swiftype_key: 
+swiftype_key:
 
 
-# archive page title 
+# archive page title
 archive:
     title: archives
     description: 可以根据归档日期检索所有文件
